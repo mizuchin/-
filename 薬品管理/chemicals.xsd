@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="chemicals" targetNamespace="http://tempuri.org/chemicals.xsd" xmlns:mstns="http://tempuri.org/chemicals.xsd" xmlns="http://tempuri.org/chemicals.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="chemicals" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="chemicals" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="chemicals">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ChemicalsDataTable" msprop:Generator_RowClassName="ChemicalsDataTableRow" msprop:Generator_RowEvHandlerName="ChemicalsDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="ChemicalsDataTableRowDeleted" msprop:Generator_RowDeletingName="ChemicalsDataTableRowDeleting" msprop:Generator_RowEvArgName="ChemicalsDataTableRowChangeEvent" msprop:Generator_TablePropName="ChemicalsDataTable" msprop:Generator_RowChangedName="ChemicalsDataTableRowChanged" msprop:Generator_UserTableName="ChemicalsDataTable" msprop:Generator_RowChangingName="ChemicalsDataTableRowChanging" msprop:Generator_TableClassName="ChemicalsDataTableDataTable" msprop:Generator_TableVarName="tableChemicalsDataTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="薬品名" msprop:Generator_UserColumnName="薬品名" msprop:Generator_ColumnPropNameInTable="薬品名Column" msprop:Generator_ColumnPropNameInRow="薬品名" msprop:Generator_ColumnVarNameInTable="column薬品名" type="xs:string" minOccurs="0" />
+              <xs:element name="分類" msprop:Generator_UserColumnName="分類" msprop:Generator_ColumnPropNameInTable="分類Column" msprop:Generator_ColumnPropNameInRow="分類" msprop:Generator_ColumnVarNameInTable="column分類" type="xs:string" minOccurs="0" />
+              <xs:element name="購入日" msprop:Generator_UserColumnName="購入日" msprop:Generator_ColumnPropNameInTable="購入日Column" msprop:Generator_ColumnPropNameInRow="購入日" msprop:Generator_ColumnVarNameInTable="column購入日" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="mol質量" msprop:Generator_UserColumnName="mol質量" msprop:Generator_ColumnPropNameInTable="mol質量Column" msprop:Generator_ColumnPropNameInRow="mol質量" msprop:Generator_ColumnVarNameInTable="columnmol質量" type="xs:decimal" minOccurs="0" />
+              <xs:element name="備考" msprop:Generator_UserColumnName="備考" msprop:Generator_ColumnPropNameInTable="備考Column" msprop:Generator_ColumnPropNameInRow="備考" msprop:Generator_ColumnVarNameInTable="column備考" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
