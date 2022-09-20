@@ -1,0 +1,14 @@
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\bin\Debug\薬品管理.exe.config
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\bin\Debug\薬品管理.exe
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\bin\Debug\薬品管理.pdb
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\bin\Debug\薬品管理.xml
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.vbproj.AssemblyReference.cache
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.Form1.resources
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.Resources.resources
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.vbproj.GenerateResource.cache
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.vbproj.CoreCompileInputs.cache
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.exe
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.xml
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.pdb
+C:\Users\hoshi\source\repos\薬品管理\薬品管理\obj\Debug\薬品管理.FormAdd.resources
