@@ -4,7 +4,7 @@
 dataフォルダの中にcsvファイルが格納されているので、初期化の際はそれを消してください。
 exeファイルは、薬品管理/bin/debugにあります。
 Visual Studio Communityを用いて開発しましたので、改造の際はslnファイルをご利用ください。
-その他バグの報告等はrikagakubu.kcc@gmail.comまでよろしくお願いします。
+その他バグの報告等はrikagakubu.kcc@gmail.comまでよろしくお願いします。  
 -English-
 This is a chemical management system developed by Kaisei Chemistry Club.
 Please feel free to use this system at your school, etc.
